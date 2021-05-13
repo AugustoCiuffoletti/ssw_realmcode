@@ -1,0 +1,1 @@
+../stitch/temperature/services/temperature/incoming_webhooks/inserisci/source.js
